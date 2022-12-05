@@ -1,0 +1,30 @@
+C:\Git\.NET Bootcamp\Sintaxe e identação\bin\Debug\net7.0\Sintaxe e identação.exe
+C:\Git\.NET Bootcamp\Sintaxe e identação\bin\Debug\net7.0\Sintaxe e identação.deps.json
+C:\Git\.NET Bootcamp\Sintaxe e identação\bin\Debug\net7.0\Sintaxe e identação.runtimeconfig.json
+C:\Git\.NET Bootcamp\Sintaxe e identação\bin\Debug\net7.0\Sintaxe e identação.dll
+C:\Git\.NET Bootcamp\Sintaxe e identação\bin\Debug\net7.0\Sintaxe e identação.pdb
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.csproj.AssemblyReference.cache
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.AssemblyInfoInputs.cache
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.AssemblyInfo.cs
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.csproj.CoreCompileInputs.cache
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.dll
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\refint\Sintaxe e identação.dll
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.pdb
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\Sintaxe e identação.genruntimeconfig.cache
+C:\Git\.NET Bootcamp\Sintaxe e identação\obj\Debug\net7.0\ref\Sintaxe e identação.dll
+C:\Git\.NET Bootcamp\Bootcamp .NET\bin\Debug\net7.0\Sintaxe e identação.exe
+C:\Git\.NET Bootcamp\Bootcamp .NET\bin\Debug\net7.0\Sintaxe e identação.deps.json
+C:\Git\.NET Bootcamp\Bootcamp .NET\bin\Debug\net7.0\Sintaxe e identação.runtimeconfig.json
+C:\Git\.NET Bootcamp\Bootcamp .NET\bin\Debug\net7.0\Sintaxe e identação.dll
+C:\Git\.NET Bootcamp\Bootcamp .NET\bin\Debug\net7.0\Sintaxe e identação.pdb
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.csproj.AssemblyReference.cache
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.AssemblyInfoInputs.cache
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.AssemblyInfo.cs
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.csproj.CoreCompileInputs.cache
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.dll
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\refint\Sintaxe e identação.dll
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.pdb
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\Sintaxe e identação.genruntimeconfig.cache
+C:\Git\.NET Bootcamp\Bootcamp .NET\obj\Debug\net7.0\ref\Sintaxe e identação.dll

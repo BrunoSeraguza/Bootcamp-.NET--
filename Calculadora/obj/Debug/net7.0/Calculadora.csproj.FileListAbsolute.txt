@@ -1,0 +1,5 @@
+C:\Git\.NET Bootcamp\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Git\.NET Bootcamp\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\.NET Bootcamp\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Git\.NET Bootcamp\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Git\.NET Bootcamp\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
